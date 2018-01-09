@@ -9,3 +9,11 @@
 .clickable:hover, .clickable-2, .clickable-3 {
   text-decoration: underline;
 }
+
+.red-background {
+  background-color: #383838;
+}
+
+.blue-background {
+  background-color: #b7b7b7;
+}
