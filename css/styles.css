@@ -1,0 +1,11 @@
+.showing, .not-showing-2, .showing-2{
+  display: none;
+}
+.clickable , .clickable-2, .clickable-3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover, .clickable-2, .clickable-3 {
+  text-decoration: underline;
+}
